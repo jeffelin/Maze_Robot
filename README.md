@@ -2,7 +2,9 @@
 
 This project contains Arduino code for a robot designed to navigate a maze. Developed as part of a project at UPenn in 2023, it includes multiple example codes and experiments for robotics and sensor integration.
 
-![Maze Robot](myrobot.jpg)
+<p align="center">
+  <img src="myrobot.jpg" alt="Maze Robot" width="300"/>
+</p>
 
 ## Project Structure
 
